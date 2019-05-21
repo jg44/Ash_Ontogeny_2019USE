@@ -5,7 +5,7 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1603457343",
+    "hash" : "0",
     "id" : "D60AF506",
     "lastKnownWriteTime" : 1558461159,
     "last_content_update" : 1558461159499,
@@ -13,7 +13,7 @@
     "project_path" : "code/01start.R",
     "properties" : {
         "cursorPosition" : "101,64",
-        "scrollLine" : "64"
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [

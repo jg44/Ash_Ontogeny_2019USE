@@ -1,7 +1,0 @@
-install.packages("sp")
-library(sp)
-data(meuse, package = "sp") # load data.frame from sp
-meuse_sf = st_as_sf(meuse, coords = c("x", "y"), crs = 28992)
-meuse_sf[1:5,]
-summary(meuse_sf[1:5,])
-#rm(meuse, meuse_sf)

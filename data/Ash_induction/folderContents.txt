@@ -1,0 +1,23 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 9AB9-1187
+
+ Directory of C:\Users\jrg1035\Dropbox\R\Projects2019Win\Proj_Ash_Ontogeny_2019USE\Ash_Ontogeny_2019USE\data\Ash_induction
+
+05/21/2019  01:45 PM    <DIR>          .
+05/21/2019  01:45 PM    <DIR>          ..
+07/30/2018  02:57 PM           884,665 0730181457.jpg
+07/30/2018  03:43 PM           424,260 0730181457_jjhedit.jpg
+07/25/2018  06:35 AM            24,374 2018 Library (basic).xlsx
+07/25/2018  12:40 PM            27,519 2018 Library (basic)_jjhedit.xlsx
+02/06/2019  06:30 PM             9,580 2018 Library (basic)_jjhedit_Potential phenolics to add to database.xlsx
+07/26/2018  02:03 PM             7,418 cas_only_library.txt
+05/21/2019  01:46 PM                 0 folderContents.txt
+07/25/2018  03:49 PM           228,546 LIBRARY IN WORD.docx
+07/25/2018  03:49 PM           505,421 Library.txt
+07/25/2018  03:49 PM           505,421 Library_copy.txt
+09/24/2018  09:04 PM             1,017 posttreatment_samples.txt
+09/28/2018  10:04 AM            11,574 posttreatment_samples.xlsx
+08/11/2018  12:23 PM            11,683 Pretreatment_samples_ash_ontongeny.xlsx
+07/30/2018  03:17 PM            13,936 randomization scheme ontogenyUSETHISONE.xlsx
+              14 File(s)      2,655,414 bytes
+               2 Dir(s)  416,563,118,080 bytes free

@@ -1,27 +1,30 @@
-Ash_Ontogeny_2019USE
+
 source("/Users/jrg1035/Dropbox/R/myfunctions/functionlist.r")
+library(JGTools)
 library(vegan)
 
-com <- .read.csv.dt("./data/ontogeny result 1 18.08 Heath for R compunds.csv")
+com <- read.csv.dt("./data/ontogeny result 1 18.08 Heath for R compunds.csv")
 names(com)[1] <- "Compound"
 
-(comClasses <- .read.csv.dt("./data/ontogeny result 1 18.08 Heath for R compound CLASSES.csv", header=T))
+bu("./data/")
 
-treekey <- .read.csv.dt("./data/treeSampleMatchKeyPilotPre1.csv", header=TRUE)
+(comClasses <- read.csv.dt("./data/ontogeny result 1 18.08 Heath for R compound CLASSES.csv", header=T))
+
+treekey <- read.csv.dt("./data/treeSampleMatchKeyPilotPre1.csv", header=TRUE)
 
 # .bu(("./data/randomization scheme ontogenyUSETHISONE.csv"))
 # .bu(("./data/randomization scheme ontogenyUSETHISONE.xlsx"))
 
 
-treatments2018Key <- .read.csv.dt("./data/randomization scheme ontogenyUSETHISONE.csv")
+treatments2018Key <- read.csv.dt("./data/randomization scheme ontogenyUSETHISONE.csv")
 
 treatments2018Key[preYN=="Y" & process!="", table(tyvexYN, INNOC_TYPE, DBHtrt)]
 
 names(treekey)[1]<-"treeID"
 
 # get treatment and key for our tree #
-matchKey <- .read.csv.dt("./data/treeSampleMatchKeyPilotPreUSE.csv")
-matchKey_coldesc <- .read.csv.dt("./data/treeSampleMatchKeyPilotPreUSE_dataDictionary.csv")
+matchKey <- read.csv.dt("./data/treeSampleMatchKeyPilotPreUSE.csv")
+matchKey_coldesc <- read.csv.dt("./data/treeSampleMatchKeyPilotPreUSE_dataDictionary.csv")
 
 sampleInFeb2019 <- c(3,4,5,6,8,11,13,14,16,18,21,25,28,31,32,34,35,41,42,43,44,46)  #23 and 40 missing (see 32) I found most of your samples, except for: 23, 32 and 40.  There are other samples with the same number (32 and 40) but they are labeled like this: 32.2, 32.5, 41.1, 41.11 and 41.11A. 
 substituteForMissing <- c(47, 24) # and select 32.2
@@ -96,7 +99,7 @@ ordiellipse(NMDS,groups=trtSize,draw="polygon",col=c("dark green",4, 2, "yellow"
 
 ordiellipse(NMDS,groups=trtSize,draw="polygon",col=c("dark green",4, 2, "yellow"), label=TRUE)
 
-.devpdf("NMDS ellipse_new")
+# .devpdf("NMDS ellipse_new")  (waiting to add devpdf to JGTools)
 
 
 

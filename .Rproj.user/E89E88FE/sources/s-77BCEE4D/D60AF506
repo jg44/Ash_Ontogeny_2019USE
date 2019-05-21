@@ -2,18 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1551134501411.000,
-    "dirty" : true,
+    "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1603457343",
     "id" : "D60AF506",
-    "lastKnownWriteTime" : 1558402494,
-    "last_content_update" : 1558450739224,
+    "lastKnownWriteTime" : 1558461159,
+    "last_content_update" : 1558461159499,
     "path" : "C:/Users/jrg1035/Dropbox/R/Projects2019Win/Proj_Ash_Ontogeny_2019USE/Ash_Ontogeny_2019USE/code/01start.R",
     "project_path" : "code/01start.R",
     "properties" : {
-        "cursorPosition" : "0,20",
-        "scrollLine" : "0"
+        "cursorPosition" : "101,64",
+        "scrollLine" : "64"
     },
     "read_only" : false,
     "read_only_alternatives" : [

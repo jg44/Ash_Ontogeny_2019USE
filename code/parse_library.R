@@ -1,9 +1,10 @@
 #26 Jul 2018 - parse Scott Greenwood's py-GCMS library to just CAS numbers for lookup on PubChem (NCBI)
 # still need to look at the other 200 that do not have cas numbers.
 
+# setwd("F:/UNH/Ash_Induction")
+# read.f <- "Library_copy.txt"
 setwd("F:/UNH/Ash_Induction")
-read.f <- "Library_copy.txt"
-
+read.f <- "./data/Ash_induction/Library_copy.txt"
 dat <- readLines(read.f)
 dat[1:20]
 
@@ -22,4 +23,4 @@ write.table(cas, file = "cas_only_library.txt",
 	append = FALSE, quote = FALSE, sep = " ",row.names = FALSE,
             col.names = FALSE)
 
-.bu()
+

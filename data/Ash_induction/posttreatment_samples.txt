@@ -1,0 +1,49 @@
+p.order	tree.id	plate.no	plugs.gound	trt	notes
+38	1	7	1	MeJA	
+37	2	7	1	MeJA	
+15	3	8	1	MeJA	
+28	4	6	1	MeJA	
+27	5	6	1	MeJA	
+26	6	6	1	MeJA	
+33	7	5	1	MeJA	
+20	8	4	1	MeJA	
+34	9	5	1	MeJA	
+18	10	4	1	MeJA	
+31	11	3	2	MeJA	thin phloem
+32	12	3	1	MeJA	
+7	13	11	1	MeJA	
+6	14	11	1	MeJA	
+47	15	10	1	MeJA	
+25	16	6	1	MeJA	
+35	17	5	1	MeJA	
+17	18	4	1	MeJA	
+46	19	10	1	MeJA	
+30	20	3	1	MeJA	
+19	21	4	1	MeJA	
+21	22	2	1	MeJA	Not sure if there is a 23. Not in the trays.
+24	24	2	1	MeJA	
+2	25	12	1	MeJA	
+5	26	11	1	MeJA	
+48	27	10	1	MeJA	
+11	28	9	1	MeJA	
+9	29	9	1	MeJA	
+13	30	8	1	MeJA	
+39	31	7	1	MeJA	
+22	32	2	1	MeJA	There's two 32s
+36	32	5	1	MeJA	There's two 32s
+23	33	2	1	MeJA	
+44	34	1	1	MeJA	
+42	35	1	1	MeJA	
+41	36	1	1	MeJA	
+3	37	12	1	MeJA	
+4	38	12	1	MeJA	
+1	39	12	1	MeJA	
+8	40	11	1	MeJA	There's two 40s
+43	40	1	1	MeJA	There's two 40s
+45	41	10	1	MeJA	
+10	42	9	1	MeJA	
+12	43	9	1	MeJA	
+14	44	8	1	MeJA	
+40	45	7	1	MeJA	
+29	46	3	1	MeJA	Not sure if there is a 47. Not in the trays.
+16	48	8	1	MeJA	

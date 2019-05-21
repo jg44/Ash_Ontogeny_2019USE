@@ -3,7 +3,8 @@
 
 # setwd("F:/UNH/Ash_Induction")
 # read.f <- "Library_copy.txt"
-read.f <- "C:/Users/jrg1035/Dropbox/R/Projects2018Win/OntogenyAshPilot/Ash_induction/Library_copy.txt"
+setwd("F:/UNH/Ash_Induction")
+read.f <- "./data/Ash_induction/Library_copy.txt"
 dat <- readLines(read.f)
 dat[1:20]
 

@@ -1,3 +1,3 @@
-# Ash ontongeny project
+# Ash defense ontongeny project
 
-# Merging the pre-analysis with which samples to process now (jeremy's work)
+### Project code shared as analyzed preliminarily (by JG and processed by JH), now shared with TJ

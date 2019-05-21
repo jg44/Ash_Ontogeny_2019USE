@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551149040478.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DC561416",
+    "lastKnownWriteTime" : 1553109980,
+    "last_content_update" : 1553109980383,
+    "path" : "C:/Users/jrg1035/Dropbox/R/Projects2019Win/Proj_Ash_Ontogeny_2019USE/Ash_Ontogeny_2019USE/code/02 Choosing samples for Feb 2019 pyGCMS run.R",
+    "project_path" : "code/02 Choosing samples for Feb 2019 pyGCMS run.R",
+    "properties" : {
+        "cursorPosition" : "35,36",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

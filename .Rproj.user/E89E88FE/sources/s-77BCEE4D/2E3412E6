@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558448317549.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1563574635",
+    "id" : "2E3412E6",
+    "lastKnownWriteTime" : 1555948177,
+    "last_content_update" : 1555948177,
+    "path" : "~/R/win-library/3.5/sf/demo/meuse_sf.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
